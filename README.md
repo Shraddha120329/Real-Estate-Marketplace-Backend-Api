@@ -1,6 +1,6 @@
 # Real-Estate-Marketplace-Backend-Api
 
-🔑 Advanced Authentication and Authentication: Implement JWT, and Google OAuth for secure and seamless user access.
+🔑 Advanced Authorization and Authentication: Implement JWT, and Google OAuth for secure and seamless user access.
   
 🏡 Real-world CRUD Operations: Create, read, update, and delete property listings using MongoDB.
 
